@@ -1,2 +1,2 @@
 # sWeather
-A simple CLI program for weather
+## A simple CLI program for weather
